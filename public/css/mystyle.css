@@ -1,0 +1,18 @@
+.success {
+    background: lightgreen;
+    padding: 5px;
+}
+
+.danger {
+    background: pink;
+    margin: 5px;
+}
+
+.header-middle .navbar-nav {
+    flex-direction: row;
+}
+
+.header-middle .navbar-nav > li {
+    padding: 20px;
+}
+
